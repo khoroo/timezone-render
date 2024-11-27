@@ -1,0 +1,11 @@
+result
+**/result
+
+# Ignore all 
+**/*.json
+**/*.zip
+**/.DS_Store
+
+# Exclude these
+!output/timezone_colors.json
+
